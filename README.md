@@ -1,2 +1,2 @@
 # programming_class
-A repo for programming class (88.007), University of Seoul
+A repo for bigdata programming class (88.007), University of Seoul
